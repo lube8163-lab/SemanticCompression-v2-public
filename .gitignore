@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Xcode user-specific files
+**/xcuserdata/
+*.xcuserstate
+
+# Build artifacts
+DerivedData/
+build/
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Optional large/private ML assets
+SemanticCompression-v2/ML/SigLIP/Assets/caption_10k.json
+SemanticCompression-v2/ML/SigLIP/Assets/caption_10k_embs.npy
