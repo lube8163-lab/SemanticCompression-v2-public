@@ -1,12 +1,34 @@
 # Mim iOS App
 
-iOS application for Mim — a semantic communication-based social platform.
+iOS client for Mim, a semantic communication-based social platform.
 
-See project overview:
+Project overview:  
 https://github.com/lube8163-lab/mim-ios
 
-## LCM Core ML Build
+## Highlights
 
-For SD1.5 + LCM merged Core ML artifact generation, see:
+- On-device image reconstruction workflow
+- In-app model install/selection
+- SD1.5 and SD1.5 (LCM) support
+
+## Recent Changes
+
+- Added model-aware generation behavior (per-model presets)
+- Added model-specific cache handling and regenerate action
+- Added LCM-related UX notes and safer switching behavior
+
+## Planned
+
+- Similarity computation features
+- VLM experiments (including MoonDream)
+
+## Build Notes
+
+For SD1.5 + LCM Core ML artifact generation, see:
 
 - `docs/lcm-coreml-build.md`
+
+## License
+
+This repository is licensed under Apache License 2.0.  
+See `LICENSE` for details.
