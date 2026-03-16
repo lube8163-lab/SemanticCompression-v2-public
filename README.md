@@ -1,4 +1,15 @@
-# Mim iOS App
+# Mim iOS Ap
+
+# ⚠️ Archive Notice
+
+This repository has been **archived** because the main Mim repository is now public.
+
+Please use the main repository instead:  
+[https://github.com/lube8163-lab/mim-ios-app](https://github.com/lube8163-lab/mim-ios-app)
+
+This repository remains for historical reference only.
+
+---
 
 iOS client for Mim, a semantic communication-based social platform.
 
